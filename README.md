@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Computer Science student with a passion for 
 Here are some of my most notable projects:
 
 ### [modulated-DQN](https://github.com/Deonixlive/modulated-DQN)
-An enhanced Deep Q-Network implementation, designed for better training speed, extendability, and data efficiency in reinforcement learning environments.
+An enhanced Deep Q-Network implementation, designed for better training speed, extendability, and data efficiency in reinforcement learning environments. The project is featured in the finals of the national competition by Swiss Youth in Science.
 
 ### [PA-net](https://github.com/Deonixlive/PA-net)
 A CNN project focused on classifying handwritten digits. Great intro to deep learning and deployment of models.
