@@ -4,11 +4,12 @@ Welcome to my GitHub profile! I'm a Computer Science student with a passion for 
 
 ## 🛠️ Tech Stack
 
-- **Programming Languages:** Java, Python&#8203;:contentReference[oaicite:2]{index=2}
-- **Deep Learning Frameworks:** :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-- **Data Science Tools:** :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- **UI Development:** :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-- **DevOps Tools:** :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+- 🧠 **Programming Languages:** Java, Python  
+- 🔬 **Deep Learning Frameworks:** TensorFlow, PyTorch  
+- 📊 **Data Science Tools:** NumPy, pandas, seaborn, Matplotlib  
+- 🎨 **UI Development:** Kivy  
+- ⚙️ **DevOps Tools:** Docker, Proxmox, Nginx Proxy Manager, Authentik  
+
 
 ## 🚀 Projects
 
