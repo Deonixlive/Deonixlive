@@ -15,17 +15,13 @@ Welcome to my GitHub profile! I'm a Computer Science student with a passion for 
 Here are some of my most notable projects:
 
 ### [modulated-DQN](https://github.com/Deonixlive/modulated-DQN)
-
-:contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
+An enhanced Deep Q-Network implementation, designed for better training speed, extendability, and data efficiency in reinforcement learning environments.
 
 ### [PA-net](https://github.com/Deonixlive/PA-net)
-
-:contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
+A CNN project focused on classifying handwritten digits. Great intro to deep learning and deployment of models.
 
 ### [rpsgame](https://github.com/Deonixlive/rpsgame)
-
-:contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-
+A classic Rock-Paper-Scissors game where you play against an AI opponent. Combines basic AI logic with interactive gameplay.
 ## 📫 Let's Connect!
 
 I'm always eager to collaborate on exciting projects and exchange ideas. Feel free to reach out or explore my repositories for more insights into my work.
