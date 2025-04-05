@@ -48,4 +48,4 @@ If you're working on something interesting — AI-related, backend infrastructur
 
 ---
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deonixlive&show_icons=true&theme=default)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deonixlive&show_icons=true&theme=radical)](https://github.com/Deonixlive)
