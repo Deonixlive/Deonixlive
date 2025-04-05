@@ -6,7 +6,7 @@ Welcome to my GitHub — a space where deep learning meets practical engineering
 
 ## About Me
 
-I'm currently diving deep into neural networks, deploying smart systems, and building everything from custom UIs to secure, containerized environments. Whether it's analyzing data, experimenting with reinforcement learning, or building backend tools, I’m always looking to push boundaries with code.
+I'm currently diving deep into neural networks, deploying smart systems, and building everything from visualizing data to secure, containerized environments. Whether it's analyzing data, experimenting with reinforcement learning, or building backend tools, I’m always looking to push boundaries with code.
 
 ---
 
