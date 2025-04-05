@@ -44,7 +44,7 @@ A fun implementation of Rock-Paper-Scissors with a Python-based UI — proof tha
 
 ## Contact
 
-If you're working on something interesting — AI-related, backend infrastructure, or anything in between — feel free to [reach out](mailto:your-email@example.com) or open an issue in one of my repos. I'm always up for thoughtful collaboration.
+If you're working on something interesting — AI-related, backend infrastructure, or anything in between — feel free to reach out or open an issue in one of my repos. I'm always up for thoughtful collaboration.
 
 ---
 
