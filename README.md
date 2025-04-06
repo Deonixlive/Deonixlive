@@ -37,7 +37,7 @@ A flexible and efficient spin on Deep Q-Networks, designed to be more modular, f
 ### [PA-net](https://github.com/Deonixlive/PA-net)
 A lightweight convolutional neural network for digit recognition, with deployment in mind. A good example of clean architecture and a tight feedback loop between training and testing.
 
-### [rpsgame](https://github.com/Deonixlive/AimPro)
+### [AimPro](https://github.com/Deonixlive/AimPro)
 A fun implementation to reach higher accuracy levels with mouse aiming — proof that even simple games can be smart, interactive, and polished.
 
 ---
