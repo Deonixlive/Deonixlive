@@ -13,16 +13,16 @@ I'm currently diving deep into neural networks, deploying smart systems, and bui
 ## Tech Stack
 
 **Languages**  
-Java • Python
+Python • Java
 
 **Deep Learning Frameworks**  
-TensorFlow • PyTorch
+TensorFlow • PyTorch • Ray •  Rllib 
 
 **Data Science & Visualization**  
 NumPy • pandas • seaborn • Matplotlib
 
 **UI Development**  
-Kivy (yes, desktop UIs with Python — still underrated)
+Kivy (yes, desktop UIs with Python)
 
 **Infrastructure & DevOps**  
 Docker • Proxmox • Nginx Proxy Manager • Authentik
