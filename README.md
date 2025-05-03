@@ -1,4 +1,4 @@
-# Dimetri Chau
+# Dime, Deonix
 
 Welcome to my GitHub — a space where deep learning meets practical engineering. I'm a CS student passionate about building intelligent systems, crafting useful tools, and exploring the intersections of Machine Learning, data visualization, and infrastructure.
 
