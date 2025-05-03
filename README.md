@@ -21,8 +21,8 @@ TensorFlow • PyTorch • Ray •  Rllib
 **Data Science & Visualization**  
 NumPy • pandas • seaborn • Matplotlib
 
-**UI Development**  
-Kivy (yes, desktop UIs with Python)
+**Autonous Vehicles**  
+[My own Library](https://github.com/Deonixlive/Control-Betaflight-Copter) •  ArduPilot • Betaflight • OAK-D Depth-AI 
 
 **Infrastructure & DevOps**  
 Docker • Proxmox • Nginx Proxy Manager • Authentik
