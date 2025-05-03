@@ -34,11 +34,11 @@ Docker • Proxmox • Nginx Proxy Manager • Authentik
 ### [modulated-DQN](https://github.com/Deonixlive/modulated-DQN)
 A flexible and efficient spin on Deep Q-Networks, designed to be more modular, faster to train, and easier to extend — ideal for experimenting with reinforcement learning.
 
+### [Autonomous FPV-Drones](https://github.com/Deonixlive/Control-Betaflight-Copter)
+An easy way to control FPV Drones with Betaflight. It also includes a highly performant asynchronous implementation of the MSP protocol with a priority structure for commands.
+
 ### [PA-net](https://github.com/Deonixlive/PA-net)
 A lightweight convolutional neural network for digit recognition, with deployment in mind. A good example of clean architecture and a tight feedback loop between training and testing.
-
-### [AimPro](https://github.com/Deonixlive/AimPro)
-A fun trainer to reach higher accuracy levels with mouse aiming — proof that even simple games can be smart, interactive, and polished.
 
 ---
 
