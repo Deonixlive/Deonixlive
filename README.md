@@ -21,7 +21,7 @@ TensorFlow • PyTorch • Ray •  Rllib
 **Data Science & Visualization**  
 NumPy • pandas • seaborn • Matplotlib
 
-**Autonous Vehicles**  
+**Autonomous Vehicles and FPV-Drones**  
 [My own Library](https://github.com/Deonixlive/Control-Betaflight-Copter) •  ArduPilot • Betaflight • OAK-D Depth-AI 
 
 **Infrastructure & DevOps**  
